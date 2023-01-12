@@ -1,0 +1,20 @@
+//Judul Total Siswa Sman 1 Dukuhwaru kelas 12 ips 1, ips 2, ips 3
+//Helmi azkia
+//A11.2022.14733
+//15 sept 2022
+//teknik informatika
+
+//Kamus
+int x
+int y
+int z
+int hasil
+
+//Deskripsi
+output penjumlahan siswa kelas 12 ips
+output kelas 12 ips 1
+input x
+output kelas 12 ips 2
+input y
+output kelas 12 ips 3
+input z
